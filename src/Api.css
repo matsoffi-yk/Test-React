@@ -1,0 +1,9 @@
+.random{
+    text-align: center;
+    font-size: 30px;
+}
+
+.coutry {
+    text-decoration: underline ;
+    flex: unset;
+}
